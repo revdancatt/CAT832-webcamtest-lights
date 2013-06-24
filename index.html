@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+    <title>CAT832 webcamtest lights</title>
+    <style>
+        #webcamcanvas {
+            width: 160px;
+            height: 120px;
+        }
+    </style>
+</head>
+<body>
+
+
+    <div class="result">
+    </div>
+    
+    <div class="webcamHolder">
+        <video id="webcam" width="160" height="120"></video>
+    </div>
+
+    <div id="hiddenStuff">
+        <canvas id="webcamcanvas" width="1" height="1"></canvas>
+    </div>
+    
+    <div class="rgb">
+    </div>
+
+    <div class="hsb">
+    </div>
+    
+    <script src="js/jquery-2.0.0.min.js"></script> 
+    <script src="js/control.js?v=0.5.8"></script>
+    <script>
+        $(document).ready(function() {
+            control.init();
+        })
+    </script>    
+
+</body>
+</html>
