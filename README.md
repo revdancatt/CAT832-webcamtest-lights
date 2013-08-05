@@ -1,6 +1,6 @@
 ![webcam colours](http://cattopus23.com/img/panel-CAT832.jpg)
 
-CAT832-webcamtest-lights
+CAT832 Webcamtest Lights
 ========================
 
 Quick bit of code to control Philips hue lightbulbs with a webcam.
