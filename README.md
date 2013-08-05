@@ -5,6 +5,8 @@ CAT832 Webcamtest Lights
 
 Quick bit of code to control Philips hue lightbulbs with a webcam.
 
++ YouTube video: http://www.youtube.com/watch?v=gVWlr-Cdu3E
++ Blogpost: http://revdancatt.com/2013/06/25/philipshue
 + Philips hue: https://www.meethue.com/en-US
 + Philips hue api: http://developers.meethue.com/
 
